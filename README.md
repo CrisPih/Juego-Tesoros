@@ -26,12 +26,14 @@ Ganar encontrando **3 tesoros**  o, si nadie lo logra, acumulando **más dinero*
 
 ## Compilación
 
-***EN MIPS***
+***EN MIPS:***
+
 Asegúrate de tener instalado **MARS4.5** o algun otro compilador de ensamblador.
 
 Descarga el archivo que está dentro de la carpeta MIPS "TesoroFinal.asm" dando a ctrl+shift+s o a los tres puntos y download:
 [**TesoroFinal.asm**](https://github.com/CrisPih/Juego-Tesoros/blob/main/MIPS/TesoroFinal.asm)
 Luego en tu simulador elegido le das a:
+
 file -> open -> TesoroFinal.asm -> Assemble file -> run
 
 ***EN LENGUAJE C:***
