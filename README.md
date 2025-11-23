@@ -3,13 +3,9 @@
 Un juego de consola desarrollado en C donde compiten **el jugador** y **la máquina** por encontrar tesoros ocultos en un tablero unidimensional.  
 Cada casilla contiene dinero o un tesoro, y ambos avanzan por turnos hasta que alguien gana.
 
----
-
 ## Objetivo del juego
 
 Ganar encontrando **3 tesoros**  o, si nadie lo logra, acumulando **más dinero** al finalizar el recorrido.
-
----
 
 ## Reglas del Juego
 
@@ -27,8 +23,6 @@ Ganar encontrando **3 tesoros**  o, si nadie lo logra, acumulando **más dinero*
    - Si hay empate en dinero, gana el que tenga **más tesoros**.  
    - Si sigue empatado: **empate total**.
 9. El ganador se lleva **la suma del dinero** de ambos jugadores.
-
----
 
 ## Compilación
 
