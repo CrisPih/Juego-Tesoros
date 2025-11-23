@@ -1,4 +1,4 @@
-# Juego de los Tesoros — Lenguaje C
+# Juego de los Tesoros
 
 Un juego de consola desarrollado en C donde compiten **el jugador** y **la máquina** por encontrar tesoros ocultos en un tablero unidimensional.  
 Cada casilla contiene dinero o un tesoro, y ambos avanzan por turnos hasta que alguien gana.
@@ -25,6 +25,15 @@ Ganar encontrando **3 tesoros**  o, si nadie lo logra, acumulando **más dinero*
 9. El ganador se lleva **la suma del dinero** de ambos jugadores.
 
 ## Compilación
+
+***EN MIPS***
+Asegúrate de tener instalado **MARS4.5** o algun otro compilador de ensamblador.
+
+Descarga el archivo que está dentro de la carpeta MIPS "TesoroFinal.asm" dando a ctrl+shift+s o a los tres puntos y download:
+[**TesoroFinal.as**][(https://github.com/CrisPih/Juego-Tesoros/blob/main/MIPS/TesoroFinal.asm)]
+Luego en tu simulador elegido le das a file -> open -> TesoroFinal.asm -> Assemble file -> run
+
+***EN LENGUAJE C:***
 
 Asegúrate de tener instalado **GCC** o alguna maquina virtual que compile C.
 
